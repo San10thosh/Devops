@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class SumTwoNumbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        int a=10;
+        int b=20;
 
         System.out.print("Enter first number: ");
         int num1 = input.nextInt();
